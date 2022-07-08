@@ -7,7 +7,7 @@ import './index.css';
 
 ReactDom.render(
 <>
-  <h1 className='heading_style'> Netfix's Anime</h1>
+  <h1 className='heading_style'> Projects</h1>
  { Sdata.map((val)=>{
   return(
     <Card 

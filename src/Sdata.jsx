@@ -1,17 +1,16 @@
 const Sdata=
 [
 {
-    
-    aname:"Naruto",
-    title:" Netflix Anime",
-    imgsrc:"https://occ-0-2186-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABemh0OSq9mGU8Fu7ZTHpyVrUpiS_EqH-wDaUnmJpI3H_MGZ5MxT-cgmJAUJ_TLDUUR7WoVm8RK7SabcaXs4wRQBtGmucAwWvR9U.jpg?r=58b",
-    alink:"https://www.netflix.com/in/title/70205012"
+    aname:"Dark",
+    title:" Netflix Original Web-Series",
+    imgsrc:"https://occ-0-2186-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdYSE6WrhH18MHWDtTBg0J6MzKeVrZyjfrM12pACGtGzQM_RqIlnFNi4RXTFBMz92hDlQEicv_g1eZ8pX3OCgTXMRhH0uLSNXrQSdlw2riC3AsBMFXvNcyCFOwS9OzBIjegH.jpg?r=393",
+    alink:"https://www.netflix.com/in/title/80100172"
 },
 {
-    aname:"Dr.stone",
-    title:" Netflix Anime",
-    imgsrc:"https://occ-0-2186-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWWNLY5L7vlLx2V6I2jWvsuKIWLSX6BqQK8bDnMqy73O4gWNY5YdyExZ45cnkDN3tXCAsHx80sG6Q1kZtOnIvJf1rxOuHJfNuZk.jpg?r=ba0",
-    alink:"https://www.netflix.com/in/title/81046193"
+    aname:"Squid Game",
+    title:" Netflix Original Web-Series",
+    imgsrc:"https://occ-0-2186-2164.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABca2DuILY0smongIAf2baOcG9C41lPQeCIrlcoNTwd45m1amb8F988PPo2vsm8ljEQ8WMG5gKRiiWLnhHOeCS2foG3uSyHFVPh0H-Mi6a-PqDZKx4FrSlVNJT09xqcj1QETQ.jpg?r=5e6",
+    alink:"https://www.netflix.com/in/title/81040344"
 },
 {
     aname:"Death note",
